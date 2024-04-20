@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drwekilowa&label=Profile%20views&color=0e75b6&style=flat" alt="drwekilowa" /> </p>
 
-- 🔭 I’m currently working on **Nusga Consulting**
+- 🔭 I’m currently on **Student in Cydeo**
 
 - 🌱 I’m currently learning **Amazon Web Services(AWS),Azure**
 
-- 💬 Ask me about **Terraform, Nexus, Grafana, Kubernetes**
+- 💬 Ask me about **Jenkins,Terraform, Nexus, Grafana, Kubernetes**
 
 - 📫 How to reach me **nabdullayeva016@gmail.com**
 
