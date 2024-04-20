@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nabdullayeva016@gmail.com**
 
-- ⚡ Fun fact **I am singer**
+- ⚡ Fun fact **I am doctor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
