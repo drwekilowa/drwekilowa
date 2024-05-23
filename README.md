@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drwekilowa&label=Profile%20views&color=0e75b6&style=flat" alt="drwekilowa" /> </p>
 
-- 🔭 I’m currently on **Student in Cydeo**
+- 🔭 I’m currently on **SDET**
 
-- 🌱 I’m currently learning **Amazon Web Services(AWS),Azure**
+- 🌱 I’m currently learning **Automation tools**
 
 - 💬 Ask me about **Jenkins,Terraform, Nexus, Grafana, Kubernetes**
 
